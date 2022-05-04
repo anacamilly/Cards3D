@@ -2,7 +2,7 @@
     font-family: "Roboto";
 }
 
-html, bory{
+html, body{
     height: 100px;
     margin: 0;
     padding: 0;
@@ -24,7 +24,6 @@ html, bory{
 }
 
 .card{
-    background: url("image.jpg") center;
     color: #ffffff;
     border-radius: 8px;
     padding: 0px 18px;
